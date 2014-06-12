@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 '''
 Entrena un clasificador por cada csv que hay en DATA_DIR y los guarda en disco.
 '''
