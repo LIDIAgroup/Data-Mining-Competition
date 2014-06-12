@@ -1,3 +1,7 @@
+'''
+Cambia caracteres alfanumericos por numericos para que sean tratables desde mlab.
+'''
+
 FILENAME = "TrainFold0w4"
 FILE_OUTPUT = "big_data_numeric.csv"
 

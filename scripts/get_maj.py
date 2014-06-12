@@ -1,3 +1,7 @@
+'''
+Realiza un muestreo aleatorio de patrones pertenecientes a la clase mayoritaria.
+El tamaño del muestreo viene dado por NUM_SAMPLES
+'''
 from random import randint
 
 FILENAME = "big_data_numeric.csv"

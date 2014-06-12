@@ -1,3 +1,7 @@
+'''
+Elimina las cabeceras del .arff para quedarse con un csv.
+'''
+
 FILENAME = "TrainFold0w4"
 FILE_OUTPUT = "data.csv"
 

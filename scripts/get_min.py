@@ -1,3 +1,6 @@
+'''
+Muestrea todos los patrones pertenecientes a la clase minoritaria.
+'''
 FILENAME = "big_data_numeric.csv"
 FILE_OUTPUT = "data_min.csv"
 CLASS_INDEX = 631
