@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 FILENAME = "data_numeric.csv"
 NUM_SAMPLES = 687729
 NUM_FILES = 17
