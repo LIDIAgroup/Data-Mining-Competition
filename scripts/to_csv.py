@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 '''
 Elimina las cabeceras del .arff para quedarse con un csv.
 '''
