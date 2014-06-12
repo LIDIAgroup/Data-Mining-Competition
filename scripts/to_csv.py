@@ -1,9 +1,13 @@
-FILENAME = "data.csv"
-CLASS_INDEX = 630
+FILENAME = "TrainFold0w4"
+FILE_OUTPUT = "data.csv"
 
 f = open(FILENAME, 'r')
+file_out = open(FILE_OUTPUT, 'w')
+
+count = 0
 for line in f:
-	if not line.startswith('@'):
-		class_value = (line.split(',')[CLASS_INDEX]).strip()
-		if (class_value is '1'):
-			print line,
+    if (count % 1000 == 0):
+    	print 'Process: ' + str(count)
+    count = count + 1
+    if not line.startswith('@'):
+	file_out.write(line)
