@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 '''
 Muestrea todos los patrones pertenecientes a la clase minoritaria.
 '''
