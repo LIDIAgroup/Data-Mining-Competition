@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 '''
 Cambia caracteres alfanumericos por numericos para que sean tratables desde mlab.
 '''
