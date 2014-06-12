@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 '''
 Clasifica todos los patrones que hay en TEST_FILE
 Se almacenan los votos de cada clasificador para cada patron en la lista de votaciones,
